@@ -1,0 +1,26 @@
+{
+  "name": "tests-automaticos-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezequieloscarescobar/tests-automaticos-nodejs.git"
+  },
+  "keywords": [],
+  "author": "ezequieloscarescobar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezequieloscarescobar/tests-automaticos-nodejs/issues"
+  },
+  "homepage": "https://github.com/ezequieloscarescobar/tests-automaticos-nodejs#readme",
+  "devDependencies": {
+    "@types/jest": "^27.0.1",
+    "jest": "^27.1.1",
+    "ts-jest": "^27.0.5",
+    "typescript": "^4.4.2"
+  }
+}
